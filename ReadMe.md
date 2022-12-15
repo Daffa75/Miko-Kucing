@@ -1,1 +1,1 @@
-Link: Miko-Kucing.Netify.App
+Link: Miko-Kucing.Netlify.App
